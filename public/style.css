@@ -8,3 +8,8 @@ img {
     height: 300px;
     object-fit: contain;
 }
+
+.dark {
+    background-color: #3C3535;
+    color: #ffffff;
+}
